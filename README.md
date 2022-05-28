@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fanhh
 - 👀 I’m interested in software engineer
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me ...
 
 <!---
