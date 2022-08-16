@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @fanhh
-- 👀 I’m interested in software engineer
-- 🌱 I’m currently learning computer science
+- 👀 I’m interested in a career in finance
+- 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me ...
 
 <!---
 fanhh/fanhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
