@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fanhh
-- 👀 I’m interested in a career in finance
+- 👀 I’m interested in a machine learning, data science and computer science.
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on interesting projects
 
