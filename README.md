@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fanhh
 - 👀 I’m interested in a machine learning, data science and computer science.
-- 🌱 I’m currently learning coding
+- 🌱 I’m currently working on serval projects involved in nuerotech, data science and machine learning.
 - 💞️ I’m looking to collaborate on interesting projects
 
 <!---
