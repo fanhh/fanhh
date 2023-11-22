@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Xiang Ding and currently a student at UCSD.
 - 👀 I’m interested in a machine learning, data science and computer science.
-- 🌱 I’m currently working on serval projects involved in nuerotech, data science and machine learning.
+- 🌱 I’m currently working on serval projects involved in data science and machine learning.
 - 💞️ I’m looking to collaborate on interesting projects
 
 <!---
